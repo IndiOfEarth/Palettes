@@ -10,4 +10,4 @@ elif app.config["ENV"] == "development":
     app.config.from_object("app.config.DevelopmentConfig")
 
 
-# from app import
+# from app import routes
