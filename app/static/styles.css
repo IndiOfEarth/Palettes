@@ -1,0 +1,26 @@
+* {
+    font-family: 'Questrial', sans-serif;
+}
+
+body {
+    background-color: #3d3d3d;
+}
+
+.title-heading {
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+}
+
+.palette-color {
+    height: 150px;
+    text-align: center;
+}
+
+.color-text {
+    color: white;
+}
+
+.img-preview {
+    width: 50%;
+}
